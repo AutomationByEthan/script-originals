@@ -1,5 +1,6 @@
-# Elgin Automation Sample Script
-This repository showcases a sample Katalon Studio script demonstrating Elgin Automation’s clean coding and robust automation practices. For a full demo or detailed script example, [contact us](https://automationbyethan.github.io/ethanelginautomation.github.io/#contact).
+# Kyperian Automation Sample Script
+This repository showcases a sample Katalon Studio script demonstrating Kyperian Automation’s clean coding and robust automation practices. For a more complete demo check out our YouTube
+demo for an introduction into UI Automation: https://www.youtube.com/watch?v=YA9p_Kg1xzw.
 
 ## Features
 - **Clean Coding**: Organized, commented Groovy script for easy maintenance.
